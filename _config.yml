@@ -29,7 +29,7 @@ skills:
 #Work experience is required
 roles:
  - title: Lead Engineer
-   start: 2016
+   start: 2019
    end: 2019
    employer: Samsung Research
    description: Worked on Smart Anti Tracking Research and Dev team. This team developed and shipped Smart Anti Tracking - A feature to prevent online trackers from stealing user's privacy.
@@ -81,18 +81,10 @@ education:
 #       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
 #       conference: W-JAX Conference, Munich 2017 (London 2017)
 
-#List of interesting Github repo/projects to include - optional
-# github:
-#  - robhinds/robhinds.github.io
-#  - robhinds/ScaLambda
-#  - robhinds/opinionated-akka-http
-#  - robhinds/food2vec
-#  - robhinds/microservices
-#  - robhinds/spring-social-geeklist
-#  - robhinds/spring-social-stackoverflow
-#  - robhinds/genotype
-#  - robhinds/footweets
-#  - robhinds/ElasticSearchGradle
+# List of interesting Github repo/projects to include - optional
+github:
+ - biljith/Tetris
+ - biljith/leetcode
 
 #Stackoverflow flair is optional
 # stackoverflow:

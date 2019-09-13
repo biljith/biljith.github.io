@@ -29,15 +29,28 @@ skills:
 #Work experience is required
 roles:
  - title: Lead Engineer
-   start: 2016
+   start: 2019
    end: 2019
    employer: Samsung Research
-   description: Worked on the Network and Loader team of Samsung Internet Browser. Was part of the team that developed Smart Anti Tracking - An ML solution that classifies privacy leaking trackers online and denies them access to user data.
+   description: Worked on Smart Anti Tracking Research and Dev team. This team developed and shipped Smart Anti Tracking - A feature to prevent online trackers from stealing user's privacy.
+   
+- title: Senior Software Engineer
+  start: 2017
+  end: 2018
+  employer: Samsung Research
+  description: Part of the Loader and Network module of Samsung Internet Browser. Responsibilites included HTTP cache, Network errors, HTTP Authentication, Proxy support and Protected Browsing. Developed Protected Browsing feature that prevents users from visiting malicious URLs.
+  
+- title: Software Engineer
+  start: 2016
+  end: 2017
+  employer: Samsung Research
+  description: Developed 'Smart Knob' - a project that involved using BLE, an Android app and an Atmega microcontroller to configure the button for various tasks
+
 
 #Education is required
 education:
  - level: Bachelor of Tech (B.Tech.)
-   date: 2003
+   date: 2016
    subject: Computer Engineering
    school: Veermata Jijabai Technological Institute
 

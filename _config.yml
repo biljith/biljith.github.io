@@ -32,12 +32,12 @@ roles:
    start: 2016
    end: 2019
    employer: Samsung Research
-   description: Worked on the Network and Loader team of Samsung Internet Browser. Was part of the team that developed Smart Anti Tracking - An ML solution that classifies privacy leaking trackers online and denies them access to user data.
+   description: Worked on Smart Anti Tracking Research and Dev team. This team developed and shipped Smart Anti Tracking - A feature to prevent online trackers from stealing user's privacy.
 
 #Education is required
 education:
  - level: Bachelor of Tech (B.Tech.)
-   date: 2003
+   date: 2016
    subject: Computer Engineering
    school: Veermata Jijabai Technological Institute
 

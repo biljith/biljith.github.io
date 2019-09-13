@@ -43,7 +43,7 @@ roles:
    end: 2017
    employer: Samsung Research
    description: Developed 'Smart Knob' - a project that involved using BLE, an Android app and an Atmega microcontroller to configure the button for various tasks.
-  - title: Student Trainee
+ - title: Student Trainee
    start: 2015
    end: 2015
    employer: Samsung Research

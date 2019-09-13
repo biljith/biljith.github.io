@@ -78,7 +78,7 @@ education:
 
 # List of interesting Github repo/projects to include - optional
  github:
-  - biljith/Tetris/
+  - biljith/Tetris
   - biljith/leetcode
 #  - robhinds/opinionated-akka-http
 #  - robhinds/food2vec

@@ -85,11 +85,9 @@ education:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-Studying Masters in Computer Science at the University of Colorado at Boulder.
-
-Previously worked as a part of the loader and network team for Samsung Internet, a Chromium based browser for mobile devices.
-
-Interested in open source, designing data structures and algorithms, problem solving, design patterns and applying good coding practices to make the world a better place, one line of code at a time.
+    Studying Masters in Computer Science at the University of Colorado at Boulder.
+    Previously worked as a part of the loader and network team for Samsung Internet, a Chromium based browser for mobile devices.
+    Interested in open source, designing data structures and algorithms, problem solving, design patterns and applying good coding practices to make the world a better place, one line of code at a time.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 # additionalinfo: |

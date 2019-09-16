@@ -94,13 +94,17 @@ github:
 #    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-    Studying Masters in Computer Science at the University of Colorado at Boulder.
+    Studying Masters in Computer Science at the University of Colorado at Boulder. One of my major interests is in Privacy and Security of users as they browse online.
+    That and a general love for everything Computer Science.
     Previously worked as a part of the loader and network team for Samsung Internet, a Chromium based browser for mobile devices.
     Interested in open source, designing data structures and algorithms, problem solving, design patterns and applying good coding practices to make the world a better place, one line of code at a time.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-# additionalinfo: |
-#    <strong>Scala</strong>: My current role uses Scala as the primary language and have been building applications in Scala for the last two years. I am familiar with a range of Scala libraries, such as <a target="_blank" href="http://automateddeveloper.blogspot.com/2017/12/an-opinionated-guide-to-building-apis.html"> Akka-Http for building microservices</a> and <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/09/generic-programming-with-scala.html"> Shapeless for generic programming</a>, as well as familiar with a range of <a target="_blank" href="https://basementcrowd.com/2018/11/28/scala-the-aux-pattern-path-dependent-types/" >functional programming techniques available</a>.<br/><br/>
+additionalinfo: |
+     <strong>Smart Anti Tracking</strong>: One of my biggest research projects happened when I was working for Samsung's browser team. You know how ad providers online seem to know a little too much about you? We wanted the users of our browsers to have their privacy in their control.
+     This project involved everything from data collection, feature engineering, handling class imbalance and training to give me a good idea of how an ML project's lifecycle is. This feature is a part of Samsung Internet Browser if you would like to give it a try - <a target='_blank' href='https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser'>Samsung Internet</a>
+     <strong>Article Detection on Webpages</strong>: Almost all major browsers on Android have Reader mode -  a mode in which the browser removes extraneous content apart from the main article and presents it to the user. The challenge is in identifying which pages have articles in them.
+     This project applied everything I learned in Smart Anti Tracking and we came up with a model that classifies Webpages.
 #    <strong>Java</strong>: I am experienced in a variety of Java API’s and frameworks. I have worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others. <br/><br/>
 #    <strong>Groovy</strong> I have used Groovy as a language in production for ~4 years and I am familiar with many of the languages features (such as writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>) and quirks (such as <a target="_blank" href="https://dzone.com/articles/groovy-retrospective-an-addendum-memory-usage-perm">memory leak issues</a>). <br/><br/>
 #    <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/05/serverless-with-aws-lambda-scala.html">Lambda</a> and its more recent <a target="_blank" href="http://automateddeveloper.blogspot.com/2018/10/machine-learning-with-aws-scala.html">Machine Learning capabilities</a>.<br/><br/>

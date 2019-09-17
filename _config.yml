@@ -85,9 +85,9 @@ education:
 #       conference: W-JAX Conference, Munich 2017 (London 2017)
 
 # List of interesting Github repo/projects to include - optional
-# github:
-#  - biljith/Tetris
-#  - biljith/leetcode
+github:
+ - biljith/Tetris
+ - biljith/leetcode
 
 #Stackoverflow flair is optional
 # stackoverflow:
